@@ -26,4 +26,24 @@ public class Student {
 		studentName = name;
 	}
 	
+	/*
+	public static void main(String[] args) {
+		
+		
+		Student studentLee	= new Student();		
+		studentLee.studentName = "Lee";
+		studentLee.studentID = 100;
+		studentLee.address = "Seoul";
+		
+		Student studentKim	= new Student();		
+		studentKim.studentName = "Kim";
+		studentKim.studentID = 101;
+		studentKim.address = "Daegu";
+		
+		studentLee.showStudentInfor();
+		studentKim.showStudentInfor();
+		
+		
+	}
+	*/
 }
